@@ -39,7 +39,7 @@ li {
 
 .main {
     background-color: #E4F1FE;
-    height: 1200px;
+    height: 1250px;
     width: 100%;
 }
 
@@ -75,11 +75,11 @@ li {
     margin: 0px 0px;
     padding-left: 60px;
     float: left;
-}
+} 
 
 .footer {
     background-color: #2C3E50;
-    height: 420px;
+    height: 570px;
 }
 
 .footer-logo {
